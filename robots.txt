@@ -1,0 +1,9 @@
+Sitemap: https://tagion.org/sitemap.xml
+
+User-agent: *
+Allow: /*
+
+Disallow: /cookie-policy
+Disallow: /privacy-policy
+Disallow: /terms-of-use
+Disallow: /dev.tagion.github.io
